@@ -23,9 +23,9 @@
     "hapi": "^17.2.2"
   },
   "devDependencies": {
-    "eslint": "^4.3.0",
+    "eslint": "^10.8.1",
     "eslint-plugin-jest": "^20.0.3",
-    "jest": "^20.0.4",
+    "jest": "^30.4.2",
     "nodemon": "^1.11.0"
   },
   "dependencies": {
